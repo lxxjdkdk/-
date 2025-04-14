@@ -1,1 +1,1 @@
-# -
+这是一个识别蘑菇的项目，分为划分数据集，训练函数，以及最后的测试，还有ipn文件将三者结合在一起，代码有vgg16和renet两种模型，并且都训练好了，但是并没有两种模型架构，使用时可自行下载推荐使用resnet模型，准确率更高模型架构下载的也快，推荐使用，数据集来自kaggle附上下载地址https://www.kaggle.com/datasets/huizecai/mushroom或者我用夸克网盘分享了「dataes.zip」，：https://pan.quark.cn/s/fdce3849943a
